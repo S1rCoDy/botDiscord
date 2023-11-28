@@ -46,4 +46,4 @@ async def text(ctx, *args):
     # Send the edited image to Discord
     await ctx.send(file=discord.File(edited_image_path))
 
-bot.run('MTE3NzkxNDE5MDY0ODg0NDM4OA.GZ3tmF.BCGrb4hWSrQohkEWBeDsCDhxgzMQtG7mm_CN3Q')
+bot.run('Your Key')
